@@ -1,8 +1,7 @@
 import getData from '../controller'
-import { InputAdornment } from '@material-ui/core';
 import Cards from './cards';
 
-console.log(getData);
+// console.log(getData);
 
 function Body() {
   return (<>
@@ -18,12 +17,9 @@ function Body() {
                     author = {item.user.first_name+' '+item.user.last_name}
                     />
                  
-                )
-           
-               
+                )   
             })}
 
-{/* <h1>sdfss</h1> */}
           
          </div> 
      </div>
