@@ -29,8 +29,10 @@ function Header() {
                 </li>
             </ul>
             </div>
+
         </div>
-    </nav>
+    </div>
+</nav>
   );
 }
 
