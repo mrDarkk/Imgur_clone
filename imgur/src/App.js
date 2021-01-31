@@ -5,6 +5,7 @@ import Footer from './components/footer';
 import Search from './components/search';
 import Body from './components/body';
 
+
 function App() {
   return (
     <div className="App">
@@ -12,6 +13,7 @@ function App() {
         <Header></Header>
         <Search></Search>
         <Body></Body>
+        {/* <SignInSide></SignInSide> */}
         <Footer></Footer>
     </div>
   );
