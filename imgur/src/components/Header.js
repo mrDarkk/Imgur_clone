@@ -6,7 +6,7 @@ function Header() {
     //   <header className="App-header">
       <nav className="navbar navbar-expand-lg">
         <div className="container-fluid">
-            <a className="navbar-brand" href="#">
+            <a className="navbar-brand" href="/">
                 <i className="fas fa-film mr-2"></i>
                 Imgur
             </a>
@@ -22,17 +22,15 @@ function Header() {
                     <a className="nav-link nav-link-2" href="#">New Post</a>
                 </li>
                 <li className="nav-item">
-                    <a className="nav-link nav-link-3" href="#">SignIn</a>
+                    <a className="nav-link nav-link-3" href="/signIN">SignIn</a>
                 </li>
                 <li className="nav-item">
                     <a className="nav-link nav-link-4" href="#">SignUp</a>
                 </li>
             </ul>
             </div>
-
         </div>
-    </div>
-</nav>
+    </nav>
   );
 }
 

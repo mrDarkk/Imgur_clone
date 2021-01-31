@@ -1,5 +1,5 @@
 // import './App.css';
-import img12 from '../img-08.jpg';
+// import img12 from '../img-08.jpg';
 
 export default function Cards(props) {
             return <>
