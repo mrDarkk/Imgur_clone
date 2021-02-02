@@ -5,6 +5,8 @@ import Home from './page/home';
 import Header from './components/Header';
 import Footer from './components/footer';
 import signIN from './components/signIn';
+import signUP from './components/signup';
+import newPOST from './components/newpost';
 // import signin from './page/signIN'; 
 
 class App extends Component { 
@@ -16,7 +18,8 @@ render() {
 			<Switch> 
 			<Route exact path='/' component={Home}></Route> 
 			<Route exact path='/signIN' component={signIN}></Route> 
-			{/* <Route exact path='/contact' component={Contact}></Route>  */}
+			<Route exact path='/signUP' component={signUP}></Route> 
+			<Route exact path='/newPOST' component={newPOST}></Route> 
       
 			</Switch> 
       <Footer></Footer>

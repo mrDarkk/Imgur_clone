@@ -19,13 +19,13 @@ function Header() {
                     <a className="nav-link nav-link-1 active" aria-current="page" href="#">Go Ad-free</a>
                 </li>
                 <li className="nav-item">
-                    <a className="nav-link nav-link-2" href="#">New Post</a>
+                    <a className="nav-link nav-link-2" href="/newPOST">New Post</a>
                 </li>
                 <li className="nav-item">
                     <a className="nav-link nav-link-3" href="/signIN">SignIn</a>
                 </li>
                 <li className="nav-item">
-                    <a className="nav-link nav-link-4" href="#">SignUp</a>
+                    <a className="nav-link nav-link-4" href="/signUP">SignUp</a>
                 </li>
             </ul>
             </div>
