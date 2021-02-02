@@ -1,7 +1,7 @@
 import getData from '../controller'
 import Cards from './cards';
 
-// console.log(getData);
+console.log(getData);
 
 function Body() {
   return (<>
@@ -16,7 +16,6 @@ function Body() {
                     likes = {item.likes}
                     author = {item.user.first_name+' '+item.user.last_name}
                     />
-                 
                 )   
             })}
 
