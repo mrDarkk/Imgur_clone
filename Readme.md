@@ -1,19 +1,5 @@
-# Milestone-7: Imgur
+# q
 
-## Learning Competencies
-
-At the end of this milestone you will learn
-
-- What are Task runners and Module bundlers
-- Understanding about Design Patterns in Javascript
-- Understanding the fundamentals of React
-- How to split the UI into independent and resuable **Components** in React
-- How to maintain internal **state** of the Component and pass the data between Components using **props**
-- Understanding the lifecycle of a Component
-
-
-## Guide
-[Click here to watch milestone guide](https://drive.google.com/open?id=11zh5Me-U9cIdbcmVdXOB7v1ApTCX7YG6)
 
 ## Problem Statement
 
