@@ -1,4 +1,4 @@
-# q
+# Imgur
 
 
 ## Problem Statement
